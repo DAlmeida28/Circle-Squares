@@ -1,0 +1,27 @@
+body{
+  background-color:lightgray;
+
+}
+
+#yellow{
+  background-color: yellow;
+  color: white;
+}
+
+#red{
+  background-color: red;
+  color: white;
+}
+
+.circles{
+  border-radius: 50%;
+}
+
+div{
+  background-color: blueviolet;
+  border: 5px dashed dodgerblue;
+}
+
+.square{
+  padding: 10px
+}
